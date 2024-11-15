@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 - Ça va ? - Tu m'as appris à oublier la douleur... - Ça marche ? - Pas vraiment. Mais je vous en veux pas.
+=======
+C'était pas ma guerre ! 
+>>>>>>> baudelaire
